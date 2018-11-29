@@ -67,6 +67,15 @@ namespace ShopSchoolv4 {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvPassword;
         
         /// <summary>
+        /// Kontrolka Persist.
+        /// </summary>
+        /// <remarks>
+        /// Pole generowane automatycznie.
+        /// By zmodyfikować deklaracje pola przenieś ją z pliku projektanta do pliku codebehind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.CheckBox Persist;
+        
+        /// <summary>
         /// Kontrolka btnLogin.
         /// </summary>
         /// <remarks>

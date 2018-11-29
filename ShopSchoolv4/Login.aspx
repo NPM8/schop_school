@@ -53,6 +53,10 @@
             </div>
         </div>
         <div class="row">
+            <div class="col-md-3"><asp:CheckBox ID="Persist" runat="server" /></div>
+            <div class="col-md-6"> Zapamiętaj</div>
+        </div>
+        <div class="row">
             <div class="col-md-3"></div>
             <div class="col-md-6">
                 <asp:Button ID="btnLogin" runat="server" CssClass="btn btn-success" Text="Login" OnClick="btnLogin_Click"></asp:Button>
